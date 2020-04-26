@@ -10,7 +10,7 @@ Created on Fri Oct 11 2019
 
 
 
-This file documents the analysis performed as part of the BP data science bootcamp pre-assessment
+This file documents the analysis performed as part of the data science bootcamp pre-assessment
 
 analysis with Python 3.7.3 64-bit
 
